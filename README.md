@@ -1,6 +1,6 @@
 # ConVert
 ``npm install convert-text``
-reqquire the package.
+require the package.
 ```js
 const convert = require("convert-text");
 ```
